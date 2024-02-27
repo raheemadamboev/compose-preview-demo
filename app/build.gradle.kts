@@ -58,6 +58,7 @@ dependencies {
     implementation(libs.compose.ui)
     implementation(libs.compose.graphics)
     implementation(libs.compose.preview)
+    debugImplementation(libs.compose.tooling)
     implementation(libs.compose.material3)
 
     // compose activity
